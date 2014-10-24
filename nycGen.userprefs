@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/makeBuildings.cs">
+    <Files>
+      <File FileName="Assets/scripts/makeBuildings.cs" Line="51" Column="20" />
+      <File FileName="../week8/Assets/scripts/tenPrint.cs" Line="27" Column="33" />
+      <File FileName="../week8/Assets/scripts/nycgenerator.cs" Line="20" Column="3" />
+      <File FileName="../week8/Assets/scripts/raycastdemo2.cs" Line="1" Column="1" />
+      <File FileName="../week8/Assets/scripts/recurrsionDemoOne.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
